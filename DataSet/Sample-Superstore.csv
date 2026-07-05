@@ -1,0 +1,237 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1,US-2023-100001,04/18/2023,04/24/2023,First Class,CU-10000,Victor Brown,Consumer,United States,Seattle,Washington,93130,West,PR-20032,Technology,Accessories,Premium Accessorie 354,1867.98,8,0,278.06
+2,US-2023-100001,04/18/2023,04/24/2023,First Class,CU-10000,Victor Brown,Consumer,United States,Seattle,Washington,93130,West,PR-20053,Technology,Phones,Premium Phone 650,123.09,5,0.3,-15.76
+3,US-2023-100001,04/18/2023,04/24/2023,First Class,CU-10000,Victor Brown,Consumer,United States,Seattle,Washington,93130,West,PR-20016,Office Supplies,Labels,Standard Label 231,669.7,3,0.2,23.59
+4,US-2023-100002,01/05/2023,01/06/2023,Standard Class,CU-10000,Victor Brown,Consumer,United States,Seattle,Washington,14722,West,PR-20037,Technology,Phones,Premium Phone 871,1177.53,3,0,0.66
+5,US-2023-100002,01/05/2023,01/06/2023,Standard Class,CU-10000,Victor Brown,Consumer,United States,Seattle,Washington,14722,West,PR-20059,Furniture,Chairs,Compact Chair 388,810.04,1,0.2,-50.84
+6,US-2023-100002,01/05/2023,01/06/2023,Standard Class,CU-10000,Victor Brown,Consumer,United States,Seattle,Washington,14722,West,PR-20006,Office Supplies,Paper,Deluxe Paper 796,2112.91,6,0.15,448.39
+7,US-2023-100003,05/02/2023,05/09/2023,Second Class,CU-10000,Victor Brown,Consumer,United States,San Francisco,California,13248,West,PR-20047,Technology,Phones,Executive Phone 513,2118.97,6,0.3,356.94
+8,US-2023-100003,05/02/2023,05/09/2023,Second Class,CU-10000,Victor Brown,Consumer,United States,San Francisco,California,13248,West,PR-20047,Technology,Phones,Executive Phone 513,329.94,4,0,3.43
+9,US-2023-100004,08/29/2023,08/31/2023,Second Class,CU-10001,Yara Rodriguez,Consumer,United States,Atlanta,Georgia,50001,South,PR-20014,Office Supplies,Art,Executive Art 159,298.71,1,0,-13.97
+10,US-2023-100004,08/29/2023,08/31/2023,Second Class,CU-10001,Yara Rodriguez,Consumer,United States,Atlanta,Georgia,50001,South,PR-20004,Furniture,Furnishings,Premium Furnishing 494,537.53,5,0.1,93.39
+11,US-2023-100005,10/02/2023,10/05/2023,Standard Class,CU-10002,Irene Jones,Home Office,United States,Boston,Massachusetts,33405,East,PR-20002,Furniture,Chairs,Eco Chair 193,540.95,2,0.2,125.79
+12,US-2023-100005,10/02/2023,10/05/2023,Standard Class,CU-10002,Irene Jones,Home Office,United States,Boston,Massachusetts,33405,East,PR-20027,Technology,Machines,Eco Machine 348,235.22,2,0,-14.09
+13,US-2023-100005,10/02/2023,10/05/2023,Standard Class,CU-10002,Irene Jones,Home Office,United States,Boston,Massachusetts,33405,East,PR-20045,Furniture,Furnishings,Standard Furnishing 158,26.85,7,0.2,5.25
+14,US-2023-100006,12/10/2023,12/12/2023,First Class,CU-10002,Irene Jones,Home Office,United States,Miami,Florida,97062,South,PR-20039,Office Supplies,Storage,Pro Storage 160,3602.49,6,0.2,1062.83
+15,US-2023-100006,12/10/2023,12/12/2023,First Class,CU-10002,Irene Jones,Home Office,United States,Miami,Florida,97062,South,PR-20032,Technology,Accessories,Premium Accessorie 354,1508.84,5,0.1,276.82
+16,US-2023-100006,12/10/2023,12/12/2023,First Class,CU-10002,Irene Jones,Home Office,United States,Miami,Florida,97062,South,PR-20035,Furniture,Bookcases,Eco Bookcase 927,180.74,3,0.1,31.18
+17,US-2023-100007,03/31/2023,04/05/2023,First Class,CU-10002,Irene Jones,Home Office,United States,Houston,Texas,10053,South,PR-20018,Technology,Copiers,Executive Copier 652,523.47,4,0.15,83.8
+18,US-2023-100007,03/31/2023,04/05/2023,First Class,CU-10002,Irene Jones,Home Office,United States,Houston,Texas,10053,South,PR-20029,Furniture,Furnishings,Basic Furnishing 533,3228.18,8,0.15,194.51
+19,US-2023-100007,03/31/2023,04/05/2023,First Class,CU-10002,Irene Jones,Home Office,United States,Houston,Texas,10053,South,PR-20057,Technology,Phones,Compact Phone 779,894.57,3,0.15,147.71
+20,US-2023-100008,11/14/2023,11/17/2023,Standard Class,CU-10002,Irene Jones,Home Office,United States,Seattle,Washington,50687,West,PR-20051,Office Supplies,Storage,Compact Storage 568,564.58,4,0,192.61
+21,US-2023-100008,11/14/2023,11/17/2023,Standard Class,CU-10002,Irene Jones,Home Office,United States,Seattle,Washington,50687,West,PR-20039,Office Supplies,Storage,Pro Storage 160,276.88,2,0.15,-25.77
+22,US-2023-100009,12/23/2023,12/27/2023,Same Day,CU-10002,Irene Jones,Home Office,United States,Miami,Florida,29342,South,PR-20057,Technology,Phones,Compact Phone 779,1405.59,2,0,340.52
+23,US-2023-100010,09/23/2023,09/27/2023,Standard Class,CU-10003,Emily Moore,Consumer,United States,Los Angeles,California,69829,West,PR-20051,Office Supplies,Storage,Compact Storage 568,1611.05,8,0.15,-41.06
+24,US-2023-100010,09/23/2023,09/27/2023,Standard Class,CU-10003,Emily Moore,Consumer,United States,Los Angeles,California,69829,West,PR-20048,Furniture,Chairs,Deluxe Chair 734,1480.69,8,0.15,51.39
+25,US-2023-100011,10/08/2023,10/12/2023,Second Class,CU-10003,Emily Moore,Consumer,United States,Atlanta,Georgia,43972,South,PR-20053,Technology,Phones,Premium Phone 650,1152.62,5,0.1,166.8
+26,US-2023-100011,10/08/2023,10/12/2023,Second Class,CU-10003,Emily Moore,Consumer,United States,Atlanta,Georgia,43972,South,PR-20017,Technology,Copiers,Standard Copier 371,315.84,8,0,-15.97
+27,US-2023-100012,06/13/2023,06/18/2023,Standard Class,CU-10003,Emily Moore,Consumer,United States,Los Angeles,California,40311,West,PR-20044,Technology,Phones,Basic Phone 158,1916.14,3,0.1,46.33
+28,US-2023-100012,06/13/2023,06/18/2023,Standard Class,CU-10003,Emily Moore,Consumer,United States,Los Angeles,California,40311,West,PR-20034,Office Supplies,Storage,Compact Storage 573,3040.31,8,0.3,94.49
+29,US-2023-100012,06/13/2023,06/18/2023,Standard Class,CU-10003,Emily Moore,Consumer,United States,Los Angeles,California,40311,West,PR-20057,Technology,Phones,Compact Phone 779,257.5,1,0.1,16.05
+30,US-2023-100012,06/13/2023,06/18/2023,Standard Class,CU-10003,Emily Moore,Consumer,United States,Los Angeles,California,40311,West,PR-20022,Furniture,Tables,Deluxe Table 702,1701.48,5,0.15,359.24
+31,US-2023-100013,10/07/2023,10/14/2023,Second Class,CU-10003,Emily Moore,Consumer,United States,Miami,Florida,45774,South,PR-20031,Technology,Phones,Deluxe Phone 512,118.69,1,0.2,28.36
+32,US-2023-100013,10/07/2023,10/14/2023,Second Class,CU-10003,Emily Moore,Consumer,United States,Miami,Florida,45774,South,PR-20046,Technology,Phones,Standard Phone 170,2274.15,3,0.15,213.24
+33,US-2023-100013,10/07/2023,10/14/2023,Second Class,CU-10003,Emily Moore,Consumer,United States,Miami,Florida,45774,South,PR-20058,Furniture,Chairs,Compact Chair 218,1252.5,7,0,-192.67
+34,US-2023-100013,10/07/2023,10/14/2023,Second Class,CU-10003,Emily Moore,Consumer,United States,Miami,Florida,45774,South,PR-20027,Technology,Machines,Eco Machine 348,2344.49,3,0,-133.43
+35,US-2023-100014,04/19/2023,04/23/2023,First Class,CU-10004,Tara Wilson,Consumer,United States,Dallas,Texas,46471,Central,PR-20016,Office Supplies,Labels,Standard Label 231,285.72,2,0.15,-48.96
+36,US-2023-100014,04/19/2023,04/23/2023,First Class,CU-10004,Tara Wilson,Consumer,United States,Dallas,Texas,46471,Central,PR-20022,Furniture,Tables,Deluxe Table 702,784.84,4,0,168.61
+37,US-2023-100014,04/19/2023,04/23/2023,First Class,CU-10004,Tara Wilson,Consumer,United States,Dallas,Texas,46471,Central,PR-20015,Furniture,Bookcases,Premium Bookcase 849,1009.22,4,0,-69.43
+38,US-2023-100014,04/19/2023,04/23/2023,First Class,CU-10004,Tara Wilson,Consumer,United States,Dallas,Texas,46471,Central,PR-20030,Office Supplies,Binders,Deluxe Binder 789,1023.87,2,0.1,189.11
+39,US-2023-100015,07/08/2023,07/10/2023,Standard Class,CU-10004,Tara Wilson,Consumer,United States,San Francisco,California,24168,West,PR-20059,Furniture,Chairs,Compact Chair 388,1306.15,5,0.1,415.11
+40,US-2023-100016,02/08/2023,02/13/2023,Second Class,CU-10005,Aaron Williams,Consumer,United States,Philadelphia,Pennsylvania,49529,East,PR-20050,Furniture,Tables,Executive Table 371,159.51,1,0.2,0.61
+41,US-2023-100017,11/28/2023,12/01/2023,Standard Class,CU-10006,Irene Taylor,Home Office,United States,Atlanta,Georgia,23833,South,PR-20023,Technology,Machines,Executive Machine 107,2558.02,8,0,520.78
+42,US-2023-100017,11/28/2023,12/01/2023,Standard Class,CU-10006,Irene Taylor,Home Office,United States,Atlanta,Georgia,23833,South,PR-20041,Office Supplies,Binders,Compact Binder 533,930.27,5,0.3,61.33
+43,US-2023-100017,11/28/2023,12/01/2023,Standard Class,CU-10006,Irene Taylor,Home Office,United States,Atlanta,Georgia,23833,South,PR-20027,Technology,Machines,Eco Machine 348,1484.26,5,0.3,466.12
+44,US-2023-100017,11/28/2023,12/01/2023,Standard Class,CU-10006,Irene Taylor,Home Office,United States,Atlanta,Georgia,23833,South,PR-20017,Technology,Copiers,Standard Copier 371,908.15,8,0.15,123.22
+45,US-2023-100018,07/14/2023,07/17/2023,Standard Class,CU-10006,Irene Taylor,Home Office,United States,Atlanta,Georgia,33834,South,PR-20013,Office Supplies,Binders,Deluxe Binder 214,2160.21,6,0,613.88
+46,US-2023-100018,07/14/2023,07/17/2023,Standard Class,CU-10006,Irene Taylor,Home Office,United States,Atlanta,Georgia,33834,South,PR-20044,Technology,Phones,Basic Phone 158,841.09,5,0,-128.61
+47,US-2023-100018,07/14/2023,07/17/2023,Standard Class,CU-10006,Irene Taylor,Home Office,United States,Atlanta,Georgia,33834,South,PR-20046,Technology,Phones,Standard Phone 170,3113.84,7,0.2,192.59
+48,US-2023-100018,07/14/2023,07/17/2023,Standard Class,CU-10006,Irene Taylor,Home Office,United States,Atlanta,Georgia,33834,South,PR-20045,Furniture,Furnishings,Standard Furnishing 158,3271.0,8,0,-124.86
+49,US-2023-100019,07/27/2023,08/02/2023,Second Class,CU-10006,Irene Taylor,Home Office,United States,Minneapolis,Minnesota,86225,Central,PR-20030,Office Supplies,Binders,Deluxe Binder 789,777.4,6,0.15,-14.04
+50,US-2023-100019,07/27/2023,08/02/2023,Second Class,CU-10006,Irene Taylor,Home Office,United States,Minneapolis,Minnesota,86225,Central,PR-20044,Technology,Phones,Basic Phone 158,1004.46,8,0,-134.24
+51,US-2023-100019,07/27/2023,08/02/2023,Second Class,CU-10006,Irene Taylor,Home Office,United States,Minneapolis,Minnesota,86225,Central,PR-20012,Office Supplies,Storage,Deluxe Storage 713,232.81,6,0.3,41.81
+52,US-2023-100020,04/21/2023,04/27/2023,Same Day,CU-10007,Aaron Moore,Consumer,United States,Minneapolis,Minnesota,87278,Central,PR-20006,Office Supplies,Paper,Deluxe Paper 796,547.32,4,0,-18.47
+53,US-2023-100020,04/21/2023,04/27/2023,Same Day,CU-10007,Aaron Moore,Consumer,United States,Minneapolis,Minnesota,87278,Central,PR-20045,Furniture,Furnishings,Standard Furnishing 158,762.41,3,0.15,-29.98
+54,US-2023-100020,04/21/2023,04/27/2023,Same Day,CU-10007,Aaron Moore,Consumer,United States,Minneapolis,Minnesota,87278,Central,PR-20008,Technology,Accessories,Premium Accessorie 400,810.42,8,0.15,-35.35
+55,US-2023-100021,08/14/2023,08/17/2023,Second Class,CU-10008,Xavier Moore,Corporate,United States,Boston,Massachusetts,72616,East,PR-20052,Office Supplies,Labels,Deluxe Label 569,733.26,2,0.15,107.2
+56,US-2023-100022,01/28/2023,01/30/2023,Second Class,CU-10008,Xavier Moore,Corporate,United States,Chicago,Illinois,42530,Central,PR-20035,Furniture,Bookcases,Eco Bookcase 927,1282.45,7,0,290.64
+57,US-2023-100023,08/19/2023,08/23/2023,First Class,CU-10009,Irene Anderson,Home Office,United States,Atlanta,Georgia,84531,South,PR-20039,Office Supplies,Storage,Pro Storage 160,1706.71,2,0.2,-143.25
+58,US-2023-100024,12/05/2023,12/06/2023,Second Class,CU-10009,Irene Anderson,Home Office,United States,Los Angeles,California,82350,West,PR-20010,Technology,Accessories,Standard Accessorie 619,124.53,1,0.15,7.28
+59,US-2023-100025,04/29/2023,05/02/2023,First Class,CU-10010,James Smith,Consumer,United States,Miami,Florida,40595,South,PR-20050,Furniture,Tables,Executive Table 371,517.83,4,0,80.88
+60,US-2023-100025,04/29/2023,05/02/2023,First Class,CU-10010,James Smith,Consumer,United States,Miami,Florida,40595,South,PR-20058,Furniture,Chairs,Compact Chair 218,3728.51,5,0,-405.45
+61,US-2023-100025,04/29/2023,05/02/2023,First Class,CU-10010,James Smith,Consumer,United States,Miami,Florida,40595,South,PR-20019,Technology,Machines,Compact Machine 508,1002.12,5,0.2,-32.82
+62,US-2023-100026,05/20/2023,05/25/2023,Same Day,CU-10011,Xavier Wilson,Corporate,United States,Miami,Florida,88385,South,PR-20056,Furniture,Furnishings,Compact Furnishing 726,1548.72,7,0,-287.71
+63,US-2023-100027,04/28/2023,05/04/2023,Standard Class,CU-10011,Xavier Wilson,Corporate,United States,Minneapolis,Minnesota,15273,Central,PR-20030,Office Supplies,Binders,Deluxe Binder 789,6602.44,8,0.15,262.36
+64,US-2023-100027,04/28/2023,05/04/2023,Standard Class,CU-10011,Xavier Wilson,Corporate,United States,Minneapolis,Minnesota,15273,Central,PR-20052,Office Supplies,Labels,Deluxe Label 569,3489.84,8,0,85.82
+65,US-2023-100028,12/10/2023,12/11/2023,Second Class,CU-10012,James Jones,Consumer,United States,Dallas,Texas,74942,Central,PR-20042,Technology,Copiers,Standard Copier 294,1712.84,7,0,85.91
+66,US-2023-100028,12/10/2023,12/11/2023,Second Class,CU-10012,James Jones,Consumer,United States,Dallas,Texas,74942,Central,PR-20020,Technology,Accessories,Eco Accessorie 629,744.28,5,0.3,61.8
+67,US-2023-100028,12/10/2023,12/11/2023,Second Class,CU-10012,James Jones,Consumer,United States,Dallas,Texas,74942,Central,PR-20000,Furniture,Chairs,Compact Chair 864,3022.32,8,0.15,-3.09
+68,US-2023-100029,09/13/2023,09/19/2023,Same Day,CU-10012,James Jones,Consumer,United States,New York,New York,45003,East,PR-20059,Furniture,Chairs,Compact Chair 388,666.54,5,0.1,-88.79
+69,US-2023-100029,09/13/2023,09/19/2023,Same Day,CU-10012,James Jones,Consumer,United States,New York,New York,45003,East,PR-20040,Furniture,Furnishings,Deluxe Furnishing 499,1283.41,4,0.15,-247.03
+70,US-2023-100030,02/17/2023,02/19/2023,Standard Class,CU-10013,Zane Hernandez,Consumer,United States,Miami,Florida,94896,South,PR-20031,Technology,Phones,Deluxe Phone 512,1157.24,5,0.1,299.84
+71,US-2023-100030,02/17/2023,02/19/2023,Standard Class,CU-10013,Zane Hernandez,Consumer,United States,Miami,Florida,94896,South,PR-20030,Office Supplies,Binders,Deluxe Binder 789,1666.16,4,0.1,-158.56
+72,US-2023-100031,11/03/2023,11/08/2023,Second Class,CU-10013,Zane Hernandez,Consumer,United States,Boston,Massachusetts,64387,East,PR-20059,Furniture,Chairs,Compact Chair 388,1850.72,5,0.2,-66.25
+73,US-2023-100031,11/03/2023,11/08/2023,Second Class,CU-10013,Zane Hernandez,Consumer,United States,Boston,Massachusetts,64387,East,PR-20037,Technology,Phones,Premium Phone 871,3120.33,8,0.15,207.15
+74,US-2023-100031,11/03/2023,11/08/2023,Second Class,CU-10013,Zane Hernandez,Consumer,United States,Boston,Massachusetts,64387,East,PR-20021,Office Supplies,Labels,Executive Label 330,1453.4,7,0.3,-139.88
+75,US-2023-100032,05/03/2023,05/08/2023,Same Day,CU-10014,Darrin Gonzalez,Consumer,United States,San Francisco,California,15720,West,PR-20047,Technology,Phones,Executive Phone 513,2550.61,8,0.1,876.46
+76,US-2023-100032,05/03/2023,05/08/2023,Same Day,CU-10014,Darrin Gonzalez,Consumer,United States,San Francisco,California,15720,West,PR-20050,Furniture,Tables,Executive Table 371,1352.53,3,0,103.14
+77,US-2023-100032,05/03/2023,05/08/2023,Same Day,CU-10014,Darrin Gonzalez,Consumer,United States,San Francisco,California,15720,West,PR-20037,Technology,Phones,Premium Phone 871,2352.1,6,0,209.98
+78,US-2023-100033,08/22/2023,08/23/2023,Second Class,CU-10014,Darrin Gonzalez,Consumer,United States,Houston,Texas,30232,South,PR-20030,Office Supplies,Binders,Deluxe Binder 789,518.87,5,0.1,81.68
+79,US-2023-100034,06/18/2023,06/25/2023,Same Day,CU-10014,Darrin Gonzalez,Consumer,United States,Minneapolis,Minnesota,73956,Central,PR-20039,Office Supplies,Storage,Pro Storage 160,145.96,2,0,50.88
+80,US-2023-100035,02/16/2023,02/20/2023,Standard Class,CU-10014,Darrin Gonzalez,Consumer,United States,Boston,Massachusetts,31805,East,PR-20057,Technology,Phones,Compact Phone 779,50.93,1,0,-0.14
+81,US-2023-100035,02/16/2023,02/20/2023,Standard Class,CU-10014,Darrin Gonzalez,Consumer,United States,Boston,Massachusetts,31805,East,PR-20027,Technology,Machines,Eco Machine 348,341.0,3,0.15,59.67
+82,US-2023-100035,02/16/2023,02/20/2023,Standard Class,CU-10014,Darrin Gonzalez,Consumer,United States,Boston,Massachusetts,31805,East,PR-20011,Furniture,Tables,Executive Table 256,165.81,3,0.3,1.72
+83,US-2023-100036,05/04/2023,05/08/2023,Second Class,CU-10015,Maria Lopez,Home Office,United States,San Francisco,California,93611,West,PR-20029,Furniture,Furnishings,Basic Furnishing 533,1508.72,5,0,260.53
+84,US-2023-100036,05/04/2023,05/08/2023,Second Class,CU-10015,Maria Lopez,Home Office,United States,San Francisco,California,93611,West,PR-20010,Technology,Accessories,Standard Accessorie 619,403.14,2,0.15,-14.3
+85,US-2023-100036,05/04/2023,05/08/2023,Second Class,CU-10015,Maria Lopez,Home Office,United States,San Francisco,California,93611,West,PR-20027,Technology,Machines,Eco Machine 348,1041.46,5,0,364.15
+86,US-2023-100037,09/05/2023,09/06/2023,Second Class,CU-10015,Maria Lopez,Home Office,United States,Houston,Texas,57049,South,PR-20044,Technology,Phones,Basic Phone 158,49.21,5,0.1,-2.41
+87,US-2023-100037,09/05/2023,09/06/2023,Second Class,CU-10015,Maria Lopez,Home Office,United States,Houston,Texas,57049,South,PR-20036,Technology,Phones,Deluxe Phone 767,273.48,1,0.1,70.57
+88,US-2023-100037,09/05/2023,09/06/2023,Second Class,CU-10015,Maria Lopez,Home Office,United States,Houston,Texas,57049,South,PR-20057,Technology,Phones,Compact Phone 779,3502.05,5,0.15,844.21
+89,US-2023-100038,04/23/2023,04/29/2023,Second Class,CU-10015,Maria Lopez,Home Office,United States,Minneapolis,Minnesota,96400,Central,PR-20040,Furniture,Furnishings,Deluxe Furnishing 499,542.69,2,0,-16.33
+90,US-2023-100038,04/23/2023,04/29/2023,Second Class,CU-10015,Maria Lopez,Home Office,United States,Minneapolis,Minnesota,96400,Central,PR-20028,Office Supplies,Binders,Executive Binder 196,175.27,1,0,-26.37
+91,US-2023-100039,06/01/2023,06/04/2023,Same Day,CU-10015,Maria Lopez,Home Office,United States,Los Angeles,California,27322,West,PR-20033,Furniture,Chairs,Eco Chair 243,1872.8,5,0.3,597.99
+92,US-2023-100039,06/01/2023,06/04/2023,Same Day,CU-10015,Maria Lopez,Home Office,United States,Los Angeles,California,27322,West,PR-20051,Office Supplies,Storage,Compact Storage 568,1686.09,5,0.3,-230.42
+93,US-2023-100039,06/01/2023,06/04/2023,Same Day,CU-10015,Maria Lopez,Home Office,United States,Los Angeles,California,27322,West,PR-20004,Furniture,Furnishings,Premium Furnishing 494,2043.58,3,0.3,351.45
+94,US-2023-100040,07/23/2023,07/30/2023,First Class,CU-10016,James Johnson,Home Office,United States,Boston,Massachusetts,11824,East,PR-20034,Office Supplies,Storage,Compact Storage 573,276.51,2,0.2,46.95
+95,US-2023-100040,07/23/2023,07/30/2023,First Class,CU-10016,James Johnson,Home Office,United States,Boston,Massachusetts,11824,East,PR-20037,Technology,Phones,Premium Phone 871,2596.83,7,0,444.47
+96,US-2023-100040,07/23/2023,07/30/2023,First Class,CU-10016,James Johnson,Home Office,United States,Boston,Massachusetts,11824,East,PR-20030,Office Supplies,Binders,Deluxe Binder 789,187.13,1,0,56.77
+97,US-2023-100041,04/24/2023,04/30/2023,Standard Class,CU-10016,James Johnson,Home Office,United States,Houston,Texas,49608,South,PR-20007,Technology,Phones,Compact Phone 887,151.08,3,0,52.54
+98,US-2023-100041,04/24/2023,04/30/2023,Standard Class,CU-10016,James Johnson,Home Office,United States,Houston,Texas,49608,South,PR-20007,Technology,Phones,Compact Phone 887,145.98,2,0,2.01
+99,US-2023-100041,04/24/2023,04/30/2023,Standard Class,CU-10016,James Johnson,Home Office,United States,Houston,Texas,49608,South,PR-20023,Technology,Machines,Executive Machine 107,1243.04,7,0,356.72
+100,US-2023-100041,04/24/2023,04/30/2023,Standard Class,CU-10016,James Johnson,Home Office,United States,Houston,Texas,49608,South,PR-20041,Office Supplies,Binders,Compact Binder 533,501.32,2,0.1,158.66
+101,US-2023-100042,05/24/2023,05/25/2023,First Class,CU-10016,James Johnson,Home Office,United States,San Francisco,California,68287,West,PR-20054,Furniture,Tables,Standard Table 457,196.85,6,0,19.58
+102,US-2023-100042,05/24/2023,05/25/2023,First Class,CU-10016,James Johnson,Home Office,United States,San Francisco,California,68287,West,PR-20041,Office Supplies,Binders,Compact Binder 533,191.67,6,0,63.73
+103,US-2023-100043,08/21/2023,08/22/2023,Second Class,CU-10016,James Johnson,Home Office,United States,New York,New York,53713,East,PR-20008,Technology,Accessories,Premium Accessorie 400,94.75,4,0,11.61
+104,US-2023-100043,08/21/2023,08/22/2023,Second Class,CU-10016,James Johnson,Home Office,United States,New York,New York,53713,East,PR-20052,Office Supplies,Labels,Deluxe Label 569,1209.67,4,0.3,357.21
+105,US-2023-100044,05/22/2023,05/29/2023,Second Class,CU-10017,Paul Moore,Consumer,United States,Seattle,Washington,42853,West,PR-20007,Technology,Phones,Compact Phone 887,63.65,1,0.3,14.87
+106,US-2023-100044,05/22/2023,05/29/2023,Second Class,CU-10017,Paul Moore,Consumer,United States,Seattle,Washington,42853,West,PR-20037,Technology,Phones,Premium Phone 871,72.14,6,0,-9.4
+107,US-2023-100045,09/27/2023,09/28/2023,Standard Class,CU-10018,Frank Gonzalez,Consumer,United States,Atlanta,Georgia,57453,South,PR-20028,Office Supplies,Binders,Executive Binder 196,3405.68,4,0.2,785.95
+108,US-2023-100046,12/04/2023,12/09/2023,First Class,CU-10018,Frank Gonzalez,Consumer,United States,Houston,Texas,14082,South,PR-20030,Office Supplies,Binders,Deluxe Binder 789,2725.68,7,0.1,522.84
+109,US-2023-100047,02/07/2023,02/08/2023,First Class,CU-10019,Steven Martinez,Home Office,United States,Los Angeles,California,26540,West,PR-20039,Office Supplies,Storage,Pro Storage 160,698.01,6,0.15,-26.39
+110,US-2023-100047,02/07/2023,02/08/2023,First Class,CU-10019,Steven Martinez,Home Office,United States,Los Angeles,California,26540,West,PR-20032,Technology,Accessories,Premium Accessorie 354,229.29,7,0,61.69
+111,US-2023-100047,02/07/2023,02/08/2023,First Class,CU-10019,Steven Martinez,Home Office,United States,Los Angeles,California,26540,West,PR-20041,Office Supplies,Binders,Compact Binder 533,1571.05,4,0.1,-21.35
+112,US-2023-100048,08/21/2023,08/25/2023,Same Day,CU-10019,Steven Martinez,Home Office,United States,Boston,Massachusetts,65936,East,PR-20042,Technology,Copiers,Standard Copier 294,1715.64,5,0.2,527.8
+113,US-2023-100048,08/21/2023,08/25/2023,Same Day,CU-10019,Steven Martinez,Home Office,United States,Boston,Massachusetts,65936,East,PR-20004,Furniture,Furnishings,Premium Furnishing 494,1500.55,2,0.1,-220.42
+114,US-2023-100048,08/21/2023,08/25/2023,Same Day,CU-10019,Steven Martinez,Home Office,United States,Boston,Massachusetts,65936,East,PR-20047,Technology,Phones,Executive Phone 513,1464.95,6,0,179.54
+115,US-2023-100049,10/15/2023,10/18/2023,Standard Class,CU-10020,Umar Lopez,Home Office,United States,Atlanta,Georgia,97207,South,PR-20055,Furniture,Chairs,Basic Chair 391,290.62,1,0,-1.92
+116,US-2023-100049,10/15/2023,10/18/2023,Standard Class,CU-10020,Umar Lopez,Home Office,United States,Atlanta,Georgia,97207,South,PR-20036,Technology,Phones,Deluxe Phone 767,295.42,4,0,78.58
+117,US-2023-100049,10/15/2023,10/18/2023,Standard Class,CU-10020,Umar Lopez,Home Office,United States,Atlanta,Georgia,97207,South,PR-20022,Furniture,Tables,Deluxe Table 702,336.74,6,0.15,-25.46
+118,US-2023-100049,10/15/2023,10/18/2023,Standard Class,CU-10020,Umar Lopez,Home Office,United States,Atlanta,Georgia,97207,South,PR-20027,Technology,Machines,Eco Machine 348,184.0,1,0.3,33.38
+119,US-2023-100050,01/15/2023,01/17/2023,First Class,CU-10020,Umar Lopez,Home Office,United States,Dallas,Texas,56009,Central,PR-20011,Furniture,Tables,Executive Table 256,771.04,3,0,-94.04
+120,US-2023-100051,11/21/2023,11/22/2023,Standard Class,CU-10020,Umar Lopez,Home Office,United States,San Francisco,California,65028,West,PR-20021,Office Supplies,Labels,Executive Label 330,339.35,3,0,77.12
+121,US-2023-100051,11/21/2023,11/22/2023,Standard Class,CU-10020,Umar Lopez,Home Office,United States,San Francisco,California,65028,West,PR-20036,Technology,Phones,Deluxe Phone 767,1592.35,2,0,342.26
+122,US-2023-100051,11/21/2023,11/22/2023,Standard Class,CU-10020,Umar Lopez,Home Office,United States,San Francisco,California,65028,West,PR-20003,Furniture,Bookcases,Standard Bookcase 742,168.11,2,0.1,11.28
+123,US-2023-100051,11/21/2023,11/22/2023,Standard Class,CU-10020,Umar Lopez,Home Office,United States,San Francisco,California,65028,West,PR-20028,Office Supplies,Binders,Executive Binder 196,590.61,7,0,-6.0
+124,US-2023-100052,05/26/2023,06/01/2023,Same Day,CU-10021,Henry Williams,Consumer,United States,Chicago,Illinois,38903,Central,PR-20038,Furniture,Chairs,Pro Chair 597,8.42,1,0,1.87
+125,US-2023-100052,05/26/2023,06/01/2023,Same Day,CU-10021,Henry Williams,Consumer,United States,Chicago,Illinois,38903,Central,PR-20048,Furniture,Chairs,Deluxe Chair 734,1338.04,5,0,98.43
+126,US-2023-100052,05/26/2023,06/01/2023,Same Day,CU-10021,Henry Williams,Consumer,United States,Chicago,Illinois,38903,Central,PR-20027,Technology,Machines,Eco Machine 348,124.98,3,0.2,-9.18
+127,US-2023-100052,05/26/2023,06/01/2023,Same Day,CU-10021,Henry Williams,Consumer,United States,Chicago,Illinois,38903,Central,PR-20035,Furniture,Bookcases,Eco Bookcase 927,148.29,6,0,5.92
+128,US-2023-100053,02/09/2023,02/16/2023,First Class,CU-10022,Wendy Davis,Corporate,United States,Houston,Texas,63008,South,PR-20018,Technology,Copiers,Executive Copier 652,370.48,2,0,89.18
+129,US-2023-100053,02/09/2023,02/16/2023,First Class,CU-10022,Wendy Davis,Corporate,United States,Houston,Texas,63008,South,PR-20039,Office Supplies,Storage,Pro Storage 160,3002.01,8,0,120.66
+130,US-2023-100053,02/09/2023,02/16/2023,First Class,CU-10022,Wendy Davis,Corporate,United States,Houston,Texas,63008,South,PR-20006,Office Supplies,Paper,Deluxe Paper 796,795.5,4,0.15,-124.69
+131,US-2023-100053,02/09/2023,02/16/2023,First Class,CU-10022,Wendy Davis,Corporate,United States,Houston,Texas,63008,South,PR-20055,Furniture,Chairs,Basic Chair 391,3368.83,5,0,769.83
+132,US-2023-100054,02/09/2023,02/14/2023,Standard Class,CU-10022,Wendy Davis,Corporate,United States,San Francisco,California,56019,West,PR-20015,Furniture,Bookcases,Premium Bookcase 849,280.67,2,0,36.86
+133,US-2023-100054,02/09/2023,02/14/2023,Standard Class,CU-10022,Wendy Davis,Corporate,United States,San Francisco,California,56019,West,PR-20048,Furniture,Chairs,Deluxe Chair 734,111.77,2,0.1,6.17
+134,US-2023-100055,10/24/2023,10/28/2023,First Class,CU-10023,Darrin Davis,Consumer,United States,Chicago,Illinois,67640,Central,PR-20030,Office Supplies,Binders,Deluxe Binder 789,2287.73,8,0.15,-386.87
+135,US-2023-100056,09/17/2023,09/18/2023,First Class,CU-10023,Darrin Davis,Consumer,United States,Atlanta,Georgia,14929,South,PR-20023,Technology,Machines,Executive Machine 107,391.45,5,0.15,49.61
+136,US-2023-100057,07/16/2023,07/20/2023,Standard Class,CU-10023,Darrin Davis,Consumer,United States,Houston,Texas,95437,South,PR-20020,Technology,Accessories,Eco Accessorie 629,3649.74,8,0.1,-522.18
+137,US-2023-100057,07/16/2023,07/20/2023,Standard Class,CU-10023,Darrin Davis,Consumer,United States,Houston,Texas,95437,South,PR-20057,Technology,Phones,Compact Phone 779,5305.94,6,0.15,824.38
+138,US-2023-100058,05/07/2023,05/13/2023,Same Day,CU-10024,Nathan Rodriguez,Corporate,United States,Houston,Texas,78517,South,PR-20023,Technology,Machines,Executive Machine 107,2480.89,6,0.1,560.57
+139,US-2023-100058,05/07/2023,05/13/2023,Same Day,CU-10024,Nathan Rodriguez,Corporate,United States,Houston,Texas,78517,South,PR-20043,Office Supplies,Storage,Deluxe Storage 693,237.47,1,0,-38.89
+140,US-2023-100059,10/13/2023,10/19/2023,Same Day,CU-10025,Victor Lopez,Consumer,United States,Dallas,Texas,96057,Central,PR-20021,Office Supplies,Labels,Executive Label 330,1057.28,2,0,-31.06
+141,US-2023-100059,10/13/2023,10/19/2023,Same Day,CU-10025,Victor Lopez,Consumer,United States,Dallas,Texas,96057,Central,PR-20041,Office Supplies,Binders,Compact Binder 533,291.12,7,0,-8.65
+142,US-2023-100060,11/26/2023,12/03/2023,First Class,CU-10026,Maria Lopez,Consumer,United States,Seattle,Washington,99838,West,PR-20041,Office Supplies,Binders,Compact Binder 533,3237.88,7,0,-97.54
+143,US-2023-100061,04/20/2023,04/23/2023,Same Day,CU-10026,Maria Lopez,Consumer,United States,Los Angeles,California,28030,West,PR-20004,Furniture,Furnishings,Premium Furnishing 494,3807.71,5,0.15,852.86
+144,US-2023-100061,04/20/2023,04/23/2023,Same Day,CU-10026,Maria Lopez,Consumer,United States,Los Angeles,California,28030,West,PR-20053,Technology,Phones,Premium Phone 650,199.71,1,0,25.66
+145,US-2023-100062,03/25/2023,03/27/2023,Second Class,CU-10027,Wendy Rodriguez,Home Office,United States,Miami,Florida,63852,South,PR-20043,Office Supplies,Storage,Deluxe Storage 693,1163.91,4,0,248.86
+146,US-2023-100062,03/25/2023,03/27/2023,Second Class,CU-10027,Wendy Rodriguez,Home Office,United States,Miami,Florida,63852,South,PR-20050,Furniture,Tables,Executive Table 371,1746.1,8,0,578.1
+147,US-2023-100062,03/25/2023,03/27/2023,Second Class,CU-10027,Wendy Rodriguez,Home Office,United States,Miami,Florida,63852,South,PR-20050,Furniture,Tables,Executive Table 371,6516.3,8,0,1127.77
+148,US-2023-100063,08/14/2023,08/18/2023,First Class,CU-10028,Frank Williams,Home Office,United States,Houston,Texas,79135,South,PR-20010,Technology,Accessories,Standard Accessorie 619,2892.48,4,0.3,-180.77
+149,US-2023-100063,08/14/2023,08/18/2023,First Class,CU-10028,Frank Williams,Home Office,United States,Houston,Texas,79135,South,PR-20041,Office Supplies,Binders,Compact Binder 533,2101.24,8,0,401.91
+150,US-2023-100063,08/14/2023,08/18/2023,First Class,CU-10028,Frank Williams,Home Office,United States,Houston,Texas,79135,South,PR-20033,Furniture,Chairs,Eco Chair 243,527.41,2,0,24.85
+151,US-2023-100063,08/14/2023,08/18/2023,First Class,CU-10028,Frank Williams,Home Office,United States,Houston,Texas,79135,South,PR-20032,Technology,Accessories,Premium Accessorie 354,2248.89,3,0,560.39
+152,US-2023-100064,06/28/2023,06/29/2023,Same Day,CU-10028,Frank Williams,Home Office,United States,Boston,Massachusetts,75799,East,PR-20015,Furniture,Bookcases,Premium Bookcase 849,3132.95,7,0,-578.02
+153,US-2023-100064,06/28/2023,06/29/2023,Same Day,CU-10028,Frank Williams,Home Office,United States,Boston,Massachusetts,75799,East,PR-20059,Furniture,Chairs,Compact Chair 388,504.58,2,0,118.71
+154,US-2023-100064,06/28/2023,06/29/2023,Same Day,CU-10028,Frank Williams,Home Office,United States,Boston,Massachusetts,75799,East,PR-20008,Technology,Accessories,Premium Accessorie 400,132.66,1,0.2,34.11
+155,US-2023-100065,08/29/2023,09/02/2023,Standard Class,CU-10028,Frank Williams,Home Office,United States,New York,New York,43544,East,PR-20053,Technology,Phones,Premium Phone 650,498.44,3,0.15,45.0
+156,US-2023-100065,08/29/2023,09/02/2023,Standard Class,CU-10028,Frank Williams,Home Office,United States,New York,New York,43544,East,PR-20007,Technology,Phones,Compact Phone 887,1107.5,5,0,-76.26
+157,US-2023-100066,11/15/2023,11/19/2023,Standard Class,CU-10029,Victor Garcia,Home Office,United States,Boston,Massachusetts,88215,East,PR-20040,Furniture,Furnishings,Deluxe Furnishing 499,1299.01,4,0.1,-258.68
+158,US-2023-100067,06/30/2023,07/02/2023,Same Day,CU-10029,Victor Garcia,Home Office,United States,Seattle,Washington,97584,West,PR-20033,Furniture,Chairs,Eco Chair 243,140.47,6,0.15,11.1
+159,US-2023-100068,09/17/2023,09/22/2023,Standard Class,CU-10029,Victor Garcia,Home Office,United States,Atlanta,Georgia,15706,South,PR-20023,Technology,Machines,Executive Machine 107,1687.78,5,0.3,-274.84
+160,US-2023-100068,09/17/2023,09/22/2023,Standard Class,CU-10029,Victor Garcia,Home Office,United States,Atlanta,Georgia,15706,South,PR-20015,Furniture,Bookcases,Premium Bookcase 849,464.42,2,0.3,-7.95
+161,US-2023-100068,09/17/2023,09/22/2023,Standard Class,CU-10029,Victor Garcia,Home Office,United States,Atlanta,Georgia,15706,South,PR-20002,Furniture,Chairs,Eco Chair 193,991.9,6,0,254.63
+162,US-2023-100068,09/17/2023,09/22/2023,Standard Class,CU-10029,Victor Garcia,Home Office,United States,Atlanta,Georgia,15706,South,PR-20043,Office Supplies,Storage,Deluxe Storage 693,3531.72,8,0.2,-352.28
+163,US-2023-100069,03/11/2023,03/12/2023,Same Day,CU-10029,Victor Garcia,Home Office,United States,Boston,Massachusetts,36422,East,PR-20050,Furniture,Tables,Executive Table 371,1596.71,4,0,133.26
+164,US-2023-100070,10/06/2023,10/10/2023,First Class,CU-10030,Yara Davis,Consumer,United States,Philadelphia,Pennsylvania,35048,East,PR-20022,Furniture,Tables,Deluxe Table 702,390.28,1,0,-51.34
+165,US-2023-100070,10/06/2023,10/10/2023,First Class,CU-10030,Yara Davis,Consumer,United States,Philadelphia,Pennsylvania,35048,East,PR-20023,Technology,Machines,Executive Machine 107,1870.5,7,0.1,546.28
+166,US-2023-100070,10/06/2023,10/10/2023,First Class,CU-10030,Yara Davis,Consumer,United States,Philadelphia,Pennsylvania,35048,East,PR-20024,Furniture,Bookcases,Executive Bookcase 169,2629.84,6,0.2,193.66
+167,US-2023-100071,09/23/2023,09/26/2023,Standard Class,CU-10030,Yara Davis,Consumer,United States,Miami,Florida,66440,South,PR-20034,Office Supplies,Storage,Compact Storage 573,1479.39,5,0,241.89
+168,US-2023-100071,09/23/2023,09/26/2023,Standard Class,CU-10030,Yara Davis,Consumer,United States,Miami,Florida,66440,South,PR-20019,Technology,Machines,Compact Machine 508,2185.33,8,0,391.98
+169,US-2023-100072,06/29/2023,07/03/2023,Standard Class,CU-10030,Yara Davis,Consumer,United States,Minneapolis,Minnesota,67008,Central,PR-20040,Furniture,Furnishings,Deluxe Furnishing 499,25.6,1,0.1,-0.0
+170,US-2023-100072,06/29/2023,07/03/2023,Standard Class,CU-10030,Yara Davis,Consumer,United States,Minneapolis,Minnesota,67008,Central,PR-20051,Office Supplies,Storage,Compact Storage 568,2573.95,3,0.3,345.33
+171,US-2023-100072,06/29/2023,07/03/2023,Standard Class,CU-10030,Yara Davis,Consumer,United States,Minneapolis,Minnesota,67008,Central,PR-20050,Furniture,Tables,Executive Table 371,327.77,8,0,74.79
+172,US-2023-100073,07/07/2023,07/10/2023,Same Day,CU-10030,Yara Davis,Consumer,United States,Philadelphia,Pennsylvania,30111,East,PR-20023,Technology,Machines,Executive Machine 107,2430.64,6,0.15,-302.05
+173,US-2023-100073,07/07/2023,07/10/2023,Same Day,CU-10030,Yara Davis,Consumer,United States,Philadelphia,Pennsylvania,30111,East,PR-20023,Technology,Machines,Executive Machine 107,1014.31,7,0,332.98
+174,US-2023-100073,07/07/2023,07/10/2023,Same Day,CU-10030,Yara Davis,Consumer,United States,Philadelphia,Pennsylvania,30111,East,PR-20001,Technology,Copiers,Pro Copier 470,681.22,3,0.15,-92.12
+175,US-2023-100073,07/07/2023,07/10/2023,Same Day,CU-10030,Yara Davis,Consumer,United States,Philadelphia,Pennsylvania,30111,East,PR-20049,Furniture,Furnishings,Basic Furnishing 367,3182.97,5,0.15,-136.65
+176,US-2023-100074,09/09/2023,09/11/2023,Standard Class,CU-10030,Yara Davis,Consumer,United States,Los Angeles,California,69250,West,PR-20057,Technology,Phones,Compact Phone 779,2393.5,8,0.3,820.05
+177,US-2023-100074,09/09/2023,09/11/2023,Standard Class,CU-10030,Yara Davis,Consumer,United States,Los Angeles,California,69250,West,PR-20042,Technology,Copiers,Standard Copier 294,1282.98,6,0.15,-51.71
+178,US-2023-100075,03/22/2023,03/28/2023,Second Class,CU-10031,Paul Gonzalez,Corporate,United States,Minneapolis,Minnesota,39391,Central,PR-20012,Office Supplies,Storage,Deluxe Storage 713,331.04,3,0,-0.5
+179,US-2023-100076,10/21/2023,10/24/2023,Same Day,CU-10031,Paul Gonzalez,Corporate,United States,Seattle,Washington,21300,West,PR-20019,Technology,Machines,Compact Machine 508,2099.16,7,0.1,187.1
+180,US-2023-100077,07/29/2023,08/05/2023,Standard Class,CU-10032,Frank Moore,Consumer,United States,San Francisco,California,94192,West,PR-20028,Office Supplies,Binders,Executive Binder 196,2461.19,8,0,696.22
+181,US-2023-100078,10/10/2023,10/16/2023,Second Class,CU-10032,Frank Moore,Consumer,United States,San Francisco,California,75911,West,PR-20053,Technology,Phones,Premium Phone 650,471.11,2,0,-52.25
+182,US-2023-100079,04/26/2023,04/29/2023,First Class,CU-10032,Frank Moore,Consumer,United States,Boston,Massachusetts,35729,East,PR-20008,Technology,Accessories,Premium Accessorie 400,2784.21,5,0.15,424.71
+183,US-2023-100079,04/26/2023,04/29/2023,First Class,CU-10032,Frank Moore,Consumer,United States,Boston,Massachusetts,35729,East,PR-20037,Technology,Phones,Premium Phone 871,162.37,3,0.2,48.08
+184,US-2023-100079,04/26/2023,04/29/2023,First Class,CU-10032,Frank Moore,Consumer,United States,Boston,Massachusetts,35729,East,PR-20021,Office Supplies,Labels,Executive Label 330,744.46,1,0,-130.28
+185,US-2023-100080,11/25/2023,12/02/2023,First Class,CU-10032,Frank Moore,Consumer,United States,Seattle,Washington,64602,West,PR-20031,Technology,Phones,Deluxe Phone 512,1453.24,5,0.1,-94.92
+186,US-2023-100081,12/17/2023,12/21/2023,First Class,CU-10032,Frank Moore,Consumer,United States,Miami,Florida,17852,South,PR-20028,Office Supplies,Binders,Executive Binder 196,3086.88,7,0,412.6
+187,US-2023-100081,12/17/2023,12/21/2023,First Class,CU-10032,Frank Moore,Consumer,United States,Miami,Florida,17852,South,PR-20020,Technology,Accessories,Eco Accessorie 629,1990.31,6,0.1,-254.92
+188,US-2023-100082,09/21/2023,09/26/2023,Standard Class,CU-10033,Wendy Hernandez,Consumer,United States,Chicago,Illinois,71141,Central,PR-20017,Technology,Copiers,Standard Copier 371,1845.18,8,0,-74.51
+189,US-2023-100083,07/16/2023,07/23/2023,Same Day,CU-10033,Wendy Hernandez,Consumer,United States,Los Angeles,California,52917,West,PR-20012,Office Supplies,Storage,Deluxe Storage 713,453.46,3,0.1,33.7
+190,US-2023-100083,07/16/2023,07/23/2023,Same Day,CU-10033,Wendy Hernandez,Consumer,United States,Los Angeles,California,52917,West,PR-20019,Technology,Machines,Compact Machine 508,122.51,8,0.15,6.31
+191,US-2023-100083,07/16/2023,07/23/2023,Same Day,CU-10033,Wendy Hernandez,Consumer,United States,Los Angeles,California,52917,West,PR-20015,Furniture,Bookcases,Premium Bookcase 849,2116.71,4,0,-95.79
+192,US-2023-100084,12/01/2023,12/07/2023,Same Day,CU-10034,Irene Johnson,Corporate,United States,Minneapolis,Minnesota,11071,Central,PR-20027,Technology,Machines,Eco Machine 348,795.39,3,0,175.08
+193,US-2023-100085,07/07/2023,07/08/2023,Same Day,CU-10034,Irene Johnson,Corporate,United States,Philadelphia,Pennsylvania,83638,East,PR-20023,Technology,Machines,Executive Machine 107,125.74,5,0.1,27.72
+194,US-2023-100085,07/07/2023,07/08/2023,Same Day,CU-10034,Irene Johnson,Corporate,United States,Philadelphia,Pennsylvania,83638,East,PR-20017,Technology,Copiers,Standard Copier 371,249.02,2,0.1,1.31
+195,US-2023-100086,06/23/2023,06/28/2023,First Class,CU-10034,Irene Johnson,Corporate,United States,Los Angeles,California,88966,West,PR-20032,Technology,Accessories,Premium Accessorie 354,50.32,1,0.2,-0.85
+196,US-2023-100086,06/23/2023,06/28/2023,First Class,CU-10034,Irene Johnson,Corporate,United States,Los Angeles,California,88966,West,PR-20030,Office Supplies,Binders,Deluxe Binder 789,380.15,8,0,-7.46
+197,US-2023-100086,06/23/2023,06/28/2023,First Class,CU-10034,Irene Johnson,Corporate,United States,Los Angeles,California,88966,West,PR-20039,Office Supplies,Storage,Pro Storage 160,309.25,6,0.2,81.47
+198,US-2023-100086,06/23/2023,06/28/2023,First Class,CU-10034,Irene Johnson,Corporate,United States,Los Angeles,California,88966,West,PR-20037,Technology,Phones,Premium Phone 871,923.02,6,0.15,64.07
+199,US-2023-100087,06/03/2023,06/07/2023,Standard Class,CU-10035,Nathan Rodriguez,Consumer,United States,Dallas,Texas,98317,Central,PR-20026,Furniture,Tables,Eco Table 319,1198.52,5,0.3,213.84
+200,US-2023-100088,01/14/2023,01/19/2023,Same Day,CU-10035,Nathan Rodriguez,Consumer,United States,Minneapolis,Minnesota,85821,Central,PR-20046,Technology,Phones,Standard Phone 170,529.34,1,0.15,77.26
+201,US-2023-100088,01/14/2023,01/19/2023,Same Day,CU-10035,Nathan Rodriguez,Consumer,United States,Minneapolis,Minnesota,85821,Central,PR-20039,Office Supplies,Storage,Pro Storage 160,330.21,7,0,-60.31
+202,US-2023-100089,12/25/2023,12/26/2023,Second Class,CU-10035,Nathan Rodriguez,Consumer,United States,Boston,Massachusetts,51116,East,PR-20009,Office Supplies,Storage,Eco Storage 103,2185.91,7,0.15,494.53
+203,US-2023-100089,12/25/2023,12/26/2023,Second Class,CU-10035,Nathan Rodriguez,Consumer,United States,Boston,Massachusetts,51116,East,PR-20058,Furniture,Chairs,Compact Chair 218,2098.15,8,0.2,-347.76
+204,US-2023-100089,12/25/2023,12/26/2023,Second Class,CU-10035,Nathan Rodriguez,Consumer,United States,Boston,Massachusetts,51116,East,PR-20008,Technology,Accessories,Premium Accessorie 400,678.92,4,0.1,60.43
+205,US-2023-100089,12/25/2023,12/26/2023,Second Class,CU-10035,Nathan Rodriguez,Consumer,United States,Boston,Massachusetts,51116,East,PR-20020,Technology,Accessories,Eco Accessorie 629,419.1,3,0,42.1
+206,US-2023-100090,12/15/2023,12/21/2023,First Class,CU-10036,Henry Jackson,Home Office,United States,Miami,Florida,42311,South,PR-20035,Furniture,Bookcases,Eco Bookcase 927,525.33,5,0.3,-21.56
+207,US-2023-100090,12/15/2023,12/21/2023,First Class,CU-10036,Henry Jackson,Home Office,United States,Miami,Florida,42311,South,PR-20013,Office Supplies,Binders,Deluxe Binder 214,1168.67,8,0.15,366.42
+208,US-2023-100090,12/15/2023,12/21/2023,First Class,CU-10036,Henry Jackson,Home Office,United States,Miami,Florida,42311,South,PR-20050,Furniture,Tables,Executive Table 371,443.55,5,0.2,43.8
+209,US-2023-100091,07/22/2023,07/29/2023,First Class,CU-10036,Henry Jackson,Home Office,United States,San Francisco,California,15513,West,PR-20045,Furniture,Furnishings,Standard Furnishing 158,318.26,2,0.2,-18.76
+210,US-2023-100091,07/22/2023,07/29/2023,First Class,CU-10036,Henry Jackson,Home Office,United States,San Francisco,California,15513,West,PR-20030,Office Supplies,Binders,Deluxe Binder 789,253.12,4,0,79.27
+211,US-2023-100091,07/22/2023,07/29/2023,First Class,CU-10036,Henry Jackson,Home Office,United States,San Francisco,California,15513,West,PR-20044,Technology,Phones,Basic Phone 158,220.29,5,0.2,27.04
+212,US-2023-100092,05/05/2023,05/06/2023,Second Class,CU-10036,Henry Jackson,Home Office,United States,Los Angeles,California,23133,West,PR-20021,Office Supplies,Labels,Executive Label 330,795.88,8,0,263.03
+213,US-2023-100092,05/05/2023,05/06/2023,Second Class,CU-10036,Henry Jackson,Home Office,United States,Los Angeles,California,23133,West,PR-20059,Furniture,Chairs,Compact Chair 388,558.22,3,0.1,88.09
+214,US-2023-100092,05/05/2023,05/06/2023,Second Class,CU-10036,Henry Jackson,Home Office,United States,Los Angeles,California,23133,West,PR-20048,Furniture,Chairs,Deluxe Chair 734,493.07,5,0,147.61
+215,US-2023-100092,05/05/2023,05/06/2023,Second Class,CU-10036,Henry Jackson,Home Office,United States,Los Angeles,California,23133,West,PR-20005,Office Supplies,Paper,Eco Paper 641,648.38,4,0.3,204.35
+216,US-2023-100093,03/31/2023,04/04/2023,Second Class,CU-10036,Henry Jackson,Home Office,United States,Boston,Massachusetts,74930,East,PR-20059,Furniture,Chairs,Compact Chair 388,3951.51,5,0,444.07
+217,US-2023-100093,03/31/2023,04/04/2023,Second Class,CU-10036,Henry Jackson,Home Office,United States,Boston,Massachusetts,74930,East,PR-20006,Office Supplies,Paper,Deluxe Paper 796,526.52,6,0.15,46.53
+218,US-2023-100094,09/16/2023,09/20/2023,First Class,CU-10037,Liam Miller,Home Office,United States,Los Angeles,California,53343,West,PR-20046,Technology,Phones,Standard Phone 170,1565.26,8,0,-300.93
+219,US-2023-100094,09/16/2023,09/20/2023,First Class,CU-10037,Liam Miller,Home Office,United States,Los Angeles,California,53343,West,PR-20021,Office Supplies,Labels,Executive Label 330,2576.63,5,0,350.49
+220,US-2023-100095,07/27/2023,08/03/2023,Same Day,CU-10038,Quinn Gonzalez,Home Office,United States,Chicago,Illinois,62538,Central,PR-20011,Furniture,Tables,Executive Table 256,1304.8,3,0,-73.81
+221,US-2023-100096,05/01/2023,05/05/2023,First Class,CU-10038,Quinn Gonzalez,Home Office,United States,Dallas,Texas,86344,Central,PR-20016,Office Supplies,Labels,Standard Label 231,3759.38,6,0.2,-507.43
+222,US-2023-100097,06/07/2023,06/09/2023,Same Day,CU-10038,Quinn Gonzalez,Home Office,United States,Minneapolis,Minnesota,25389,Central,PR-20023,Technology,Machines,Executive Machine 107,820.1,4,0.1,-94.92
+223,US-2023-100097,06/07/2023,06/09/2023,Same Day,CU-10038,Quinn Gonzalez,Home Office,United States,Minneapolis,Minnesota,25389,Central,PR-20047,Technology,Phones,Executive Phone 513,760.21,6,0.1,164.62
+224,US-2023-100097,06/07/2023,06/09/2023,Same Day,CU-10038,Quinn Gonzalez,Home Office,United States,Minneapolis,Minnesota,25389,Central,PR-20051,Office Supplies,Storage,Compact Storage 568,917.41,4,0.3,117.15
+225,US-2023-100098,02/11/2023,02/16/2023,Same Day,CU-10038,Quinn Gonzalez,Home Office,United States,Chicago,Illinois,83946,Central,PR-20003,Furniture,Bookcases,Standard Bookcase 742,2078.82,4,0,-40.61
+226,US-2023-100099,08/15/2023,08/16/2023,Second Class,CU-10039,Paul Jones,Corporate,United States,Miami,Florida,76895,South,PR-20051,Office Supplies,Storage,Compact Storage 568,137.85,1,0.1,7.06
+227,US-2023-100099,08/15/2023,08/16/2023,Second Class,CU-10039,Paul Jones,Corporate,United States,Miami,Florida,76895,South,PR-20003,Furniture,Bookcases,Standard Bookcase 742,2435.05,8,0.2,-457.85
+228,US-2023-100099,08/15/2023,08/16/2023,Second Class,CU-10039,Paul Jones,Corporate,United States,Miami,Florida,76895,South,PR-20016,Office Supplies,Labels,Standard Label 231,224.59,1,0,-39.32
+229,US-2023-100099,08/15/2023,08/16/2023,Second Class,CU-10039,Paul Jones,Corporate,United States,Miami,Florida,76895,South,PR-20022,Furniture,Tables,Deluxe Table 702,983.27,2,0,336.65
+230,US-2023-100100,08/30/2023,08/31/2023,First Class,CU-10039,Paul Jones,Corporate,United States,Miami,Florida,27750,South,PR-20023,Technology,Machines,Executive Machine 107,1432.19,7,0.1,-223.22
+231,US-2023-100100,08/30/2023,08/31/2023,First Class,CU-10039,Paul Jones,Corporate,United States,Miami,Florida,27750,South,PR-20042,Technology,Copiers,Standard Copier 294,887.47,3,0,-90.38
+232,US-2023-100100,08/30/2023,08/31/2023,First Class,CU-10039,Paul Jones,Corporate,United States,Miami,Florida,27750,South,PR-20034,Office Supplies,Storage,Compact Storage 573,1121.56,7,0,290.65
+233,US-2023-100100,08/30/2023,08/31/2023,First Class,CU-10039,Paul Jones,Corporate,United States,Miami,Florida,27750,South,PR-20048,Furniture,Chairs,Deluxe Chair 734,440.43,1,0.2,86.1
+234,US-2023-100101,08/06/2023,08/11/2023,Same Day,CU-10039,Paul Jones,Corporate,United States,Los Angeles,California,70375,West,PR-20009,Office Supplies,Storage,Eco Storage 103,296.25,5,0.3,-40.86
+235,US-2023-100101,08/06/2023,08/11/2023,Same Day,CU-10039,Paul Jones,Corporate,United States,Los Angeles,California,70375,West,PR-20051,Office Supplies,Storage,Compact Storage 568,3900.97,7,0,-338.04
+236,US-2023-100101,08/06/2023,08/11/2023,Same Day,CU-10039,Paul Jones,Corporate,United States,Los Angeles,California,70375,West,PR-20006,Office Supplies,Paper,Deluxe Paper 796,135.78,1,0.2,37.98
